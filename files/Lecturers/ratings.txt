@@ -1,0 +1,61 @@
+________AED_______
+{APR+PMPR, }
+{PMPR, 8}- Pedro Manuel Pinto Ribeiro
+{AJMC, }- António Jesus Monteiro de Castro
+{APR, 6}- Ana Paula Cunha da Rocha
+{RR, 8}- Rosaldo José Fernandes Rossetti
+{VAFS, }- Vanessa Alexandra Freitas da Silva
+{AMRPC, }- António Manuel Ribeiro Pereira da Costa
+{LPGG, }- Luciano Polónia Gonçalves Grácio
+{FMMR, 9}- Filipa Marília Monteiro Ramos
+
+___________BD_________
+{GTD, 4}- Gabriel de Sousa Torcato David
+{DLGG, }- Daniel Luís Gonçalves Garrido
+{aid, }- ???
+{ANE, }- Ahmad Naser Eddin
+{PECS, }- Pedro Emanuel Cardoso de Sousa	
+{LGBC, }- Lázaro Gabriel Barros da Costa
+{ASP, }- António Humberto Sá Pinto
+{MCPF, 5}- Michel Celestino Paiva Ferreira
+
+_________F_____________
+{JCREO, }- Joana Cassilda Rodrigues Espain de Oliveira
+{Doc2, }- ???
+{MJBM, }- Manuel Joaquim Bastos Marques
+{ASR, }- Augusto da Silveira Rodrigues
+{DPU, }- Diana Maria Carreira Pires Urbano
+{Doc1, }- ???
+
+__________LDTS_________
+{RMA, 1}- Rui Filipe Lima Maranhão de Abreu
+{BMCL, 8}- Bruno Miguel Carvalhido Lima
+{JAC, }- Juvenal Andrade de Carvalho
+{NFMM, }- Nuno Filipe Moreira Macedo
+{JMCC, }- Jácome Miguel Costa da Cunha
+{NHF, 5}- Nuno Honório Rodrigues Flores
+{AOR, 10}- André Monteiro de Oliveira Restivo	
+{JCMC, }- José Carlos Medeiros de Campos
+
+
+________SO_____________
+{CB+LMBL, }
+{Doc, }- ???
+{MMC, }- José Manuel de Magalhães Cruz	
+{FDRG, }- Fábio Daniel Reis Gaspar
+{LMBL, 7}- Luís Miguel Barros Lopes
+{TLS, }- Tiago Lascasas dos Santos
+{HMSO, }- Hugo Manuel Soares Oliveira
+
+
+
+
+PMPR    10
+FMMR    10
+RR      5
+APR     -1
+MCPF    2
+AOR     10
+BMCL    1
+RMA     -1
+LMBL    1
