@@ -78,7 +78,7 @@ void Schedules_list::generate_schedules() {
         }
     }
     
-    // sort_schedules_list();         // UNCOMMENT HERE
+    sort_schedules_list();         // UNCOMMENT HERE
 }
 // -------------------------------------------------
 

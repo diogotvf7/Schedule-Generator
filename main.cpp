@@ -26,13 +26,11 @@ vector<int> listPrimes(int n) {
 
 int main () {
 
-    // Schedules_list sl_1({"files/Classes/Shift1/AED.txt", "files/Classes/Shift1/BD.txt", "files/Classes/Shift1/F.txt", "files/Classes/Shift1/LDTS.txt", "files/Classes/Shift1/SO.txt"}, "files/Generated/Shift1.txt");
-    // // Schedules_list sl_2({"files/Classes/Shift2/AED.txt", "files/Classes/Shift2/BD.txt", "files/Classes/Shift2/F.txt", "files/Classes/Shift2/LDTS.txt", "files/Classes/Shift2/SO.txt"}, "files/Generated/Shift2.txt");
+    Schedules_list sl_1({"files/Classes/Shift1/AED.txt", "files/Classes/Shift1/BD.txt", "files/Classes/Shift1/F.txt", "files/Classes/Shift1/LDTS.txt", "files/Classes/Shift1/SO.txt"}, "files/Generated/Shift1.txt");
+    Schedules_list sl_2({"files/Classes/Shift2/AED.txt", "files/Classes/Shift2/BD.txt", "files/Classes/Shift2/F.txt", "files/Classes/Shift2/LDTS.txt", "files/Classes/Shift2/SO.txt"}, "files/Generated/Shift2.txt");
 
-    // sl_1.print(); 
-    // // sl_2.print();
-
-    cout << listPrimes(100).size();
+    sl_1.generate_schedules(); sl_1.print(); 
+    sl_2.generate_schedules(); sl_2.print();
 
     return 0;
 }

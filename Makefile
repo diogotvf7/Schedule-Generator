@@ -34,4 +34,4 @@ PROG=main
 $(PROG): $(CPP_FILES) $(HEADERS)
 	$(CXX) $(CXXFLAGS) $(CPP_FILES) -o $(PROG)
 
-# make main="main.cpp" CPP_FILES="main.cpp time.cpp class.cpp schedule.cpp" HEADERS="Time.h Class.h Schedule.h"
+# make main="main.cpp" CPP_FILES="main.cpp time.cpp class.cpp schedule.cpp schedules_list.cpp" HEADERS="Time.h Class.h Schedule.h Schedules_list.h"
